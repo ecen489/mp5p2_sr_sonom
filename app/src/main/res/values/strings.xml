@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">official5</string>
+    <string-array name="topic_array_from_strings">
+        <item>Topic1</item>
+        <item>Topic2</item>
+        <item>Topic3</item>
+    </string-array>
+    <string name="title_activity_quiz_disp">QuizDisp</string>
+</resources>
